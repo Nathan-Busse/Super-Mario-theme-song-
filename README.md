@@ -11,3 +11,7 @@ The classic Super Mario theme song using an Arduino and a Pizo buzzer.
 https://www.arduino.cc/en/software 
 
 * Programming usb for your specific board.
+
+# Connections
+
+The code has comments that will explain how to assemble the project.
