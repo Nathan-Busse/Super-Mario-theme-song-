@@ -15,3 +15,7 @@ https://www.arduino.cc/en/software
 # Connections
 
 The code has comments that will explain how to assemble the project.
+
+# How does it work?
+
+Piezo buzzers are simple devices that can generate basic beeps and tones. They work by using a piezo crystal, a special material that changes shape when voltage is applied to it. If the crystal pushes against a diaphram, like a tiny speaker cone, it can generate a pressure wave which the human ear picks up as sound.
